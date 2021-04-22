@@ -37,12 +37,12 @@ class MyHomePage extends StatelessWidget {
                 image: "assets/baju1.jpg"),
             ProductBox(
                 name: "Kemeja",
-                description: "Baju Kemeja",
+                description: "Sweater",
                 price: 80000,
                 image: "assets/baju2.jpg"),
             ProductBox(
                 name: "Kaos",
-                description: "Baju Kaos",
+                description: "Baju Koko part 2 warna abu abu",
                 price: 75000,
                 image: "assets/baju3.jpg"),
             /* ProductBox(
